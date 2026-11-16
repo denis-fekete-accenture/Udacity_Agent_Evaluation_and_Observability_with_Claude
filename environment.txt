@@ -1,0 +1,8 @@
+python --version: Python 3.14.4
+
+OS: Windows 11 Enterprise (build 26200.9711)
+Terminal: Windows PowerShell
+
+Python virtual environment setup:
+    - single shared virtual environment (.venv) located at the root of the cloned repository
+    - for each subproject a pyproject.toml dependencies were installed

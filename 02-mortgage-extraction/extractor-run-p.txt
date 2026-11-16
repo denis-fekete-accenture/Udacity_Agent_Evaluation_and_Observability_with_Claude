@@ -1,0 +1,1 @@
+flagged for review: Final appraised value of $800,000 is inconsistent with the reconciled value of $410,000 from the Sales Comparison Approach and Cost Approach value of $404,000; this significant discrepancy suggests a data entry error or correction that requires human verification.
